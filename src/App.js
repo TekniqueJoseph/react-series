@@ -15,7 +15,7 @@ class App extends Component {
       </Greet>
 
       <Greet name = 'Clark' heroName = 'Superman'>
-        <button>Live Action</button>
+        <button>Live</button>
       </Greet>
 
       <Greet name = 'Diana' heroName = 'Wonderwoman'/>
