@@ -11,7 +11,7 @@ class Message extends Component {
 
     changeMessage(){
         this.setState({
-            message: 'Thanks for subscribing'
+            message: 'Access Granted'
         })
     }
 
